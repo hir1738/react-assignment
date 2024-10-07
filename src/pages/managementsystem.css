@@ -1,0 +1,72 @@
+.blueHeader {
+  background-color: #007aff;
+  width: 100%;
+  height: 80px;
+  gap: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.whiteCircle {
+  display: flex;
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  background-color: #ffffff;
+  margin-left: 20px;
+}
+
+.pageHeaderInv {
+  display: flex;
+  margin-left: 20px;
+  color: #ffffff;
+  font-family: Inter;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 36px;
+  text-align: left;
+  width: 1275px;
+  height: 36px;
+}
+
+.homeEnd {
+  display: flex;
+  justify-content: flex-end !important;
+  width: 45px;
+  height: 24px;
+  gap: 0px;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  margin-right: 8px !important;
+  color: #ffffff;
+}
+
+.formFields {
+  margin-top: 30px;
+}
+
+.checkBoxAdd {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.checkBoxLabel {
+  width: 34px;
+  height: 24px;
+  gap: 0px;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: #344054 !important;
+  margin-left: 5px;
+}
+
+.marginLeftgiven {
+  margin-left: 20px;
+}

@@ -1,0 +1,100 @@
+.supdetails {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.headerFix {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  height: 48px;
+  gap: 0px;
+  font-family: Inter;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: center;
+  color: #000000;
+}
+
+.formFieldsItems {
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  width: 1100px;
+  height: 504px;
+  padding: 32px;
+  gap: 8px;
+  border-radius: 16px;
+  background-color: #ebeefd;
+}
+
+.formFieldsItems2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.formFieldsItems3 {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.formFieldsItems4 {
+    display: grid;
+    align-items: center;
+    margin-left: 12px;
+  }
+
+.formLabelInput {
+  width: 478px;
+  height: 20px;
+  gap: 0px;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: left;
+  color: #000000;
+}
+
+.formInputlabel {
+  width: 478px;
+  height: 36px;
+  padding: 8px 12px 8px 12px;
+  gap: 4px;
+  border-radius: 6px;
+  border: 1px;
+  background: #ffffff;
+  border: 1px solid #00000033;
+}
+
+.formLabelSideThing {
+  font-family: Inter;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  color: #00000080;
+  height: 16px;
+  width: 478px;
+  margin-top: 5px;
+}
+
+.giveMarginTop {
+  margin-top: 30px;
+}
+
+.formInputlabelSelect {
+  width: 500px;
+  height: 50px;
+  padding: 8px 12px 8px 12px;
+  gap: 4px;
+  border-radius: 6px;
+  border: 1px;
+  background: #ffffff;
+  border: 1px solid #00000033;
+}
